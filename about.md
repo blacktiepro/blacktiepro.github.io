@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About Black Tie Blog
 
-Some information about you!
+The Black Tie Blog is dedicated to producing smart tutorials aimed at making technology simple.  
 
-### More Information
+### Black Tie Pro
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+If you find yourself in need of further assistance, feel free to [check out our Black Tie Pro services](http://www.blacktie.pro).
