@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #ca0002;
   }
 }
 
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+ // border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
