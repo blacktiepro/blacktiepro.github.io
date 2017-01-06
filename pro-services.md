@@ -9,4 +9,4 @@ This blog is dedicated to producing smart tutorials aimed at helping you solve c
 
 For those times when you need more than helpful information, we're here to personally assist you.  We offer a full line of professional IT services to a very special group of clients that we call *VIPs*.  
 
-[Check out our Black Tie Pro services](http://www.blacktie.pro).  Discover first-hand what our Smart Assistants can do for you.  We'll deliver measurable results or your money back.  It's the *[Black Tie Promise](http://www.blacktie.pro/our-promise).  
+[Check out our Black Tie Pro services](http://www.blacktie.pro).  Discover first-hand what our Smart Assistants can do for you.  We'll deliver measurable results or your money back.  It's the *[Black Tie Promise](http://www.blacktie.pro/our-promise)*.  
