@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #ca0002;
+    color: $gray;
   }
 }
 
@@ -199,6 +199,10 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+}
+
+.site-name a:hover {
+  color: white;
 }
 
 .site-description {
