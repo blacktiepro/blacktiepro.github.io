@@ -3,6 +3,7 @@ layout: post
 title: On Becoming a Windows 7 Power User
 category: Windows 7
 tags: Windows
+permalink: /:category/:title/
 ---
 
 ## Why You Should Become a Windows 7 Power User
